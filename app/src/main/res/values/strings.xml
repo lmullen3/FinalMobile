@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">FinalApp</string>
-
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="hourInput">Number of print hours</string>
+    <string name="minuteInput">Number of print minutes (1-59)</string>
+    <string name="title_activity_input_check">InputCheck</string>
+    <string name="checkCorrect">Is the Following Information Correct?</string>
+    <string name="confirmButton">Confirm</string>
+        <string name="check_correct">If the above information is correct, click confirm. Otherwise, go back
+    and edit your information. Click confirm to update the current status of the printer.</string>
+    <string name="hour_view">Hours required to print</string>
+    <string name="minute_view">Minutes required to print</string>
+    <string name="print_view">The selected printer</string>
+    <string name="title_activity_thanks">Thanks</string>
+    <string name="thanks">Thank you for making use of the 3D printer!</string>
+
 </resources>
